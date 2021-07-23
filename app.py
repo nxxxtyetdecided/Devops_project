@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello, CodeBuild! edit 0718 again'
+    return 'Hello, CodeBuild! pipeline'
